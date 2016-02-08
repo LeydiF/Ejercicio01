@@ -1,12 +1,31 @@
 header.main-nav{
 	background: #ccc;
-	color:#466;
+	color:#536;
 }
 
-header.main-nav nav a#logo{
-	background-image: url();
+header.main-nav .navigation #logo{
+	background-image: url("../img/logo.png");
+	display:block;
+	width: 172px;
+	height: 172px;
+	text-indent: 0;
+	color: transparent;
+	background-size: 50px;
+	background-repeat: no-repeat;
+
+	margin: 10px 20px 30px 40px;
+
+	margin-top: 10px;
+	margin-right: 20px;
+	margin-left: 30px;
+	margin-bottom: 40px;
+
 }
 
 .main-nav{
-	color:#789;
+	color:#245;
+	background:gray;
+	padding-top: 27px;
+	margin-top: 13px;	
 }
+
