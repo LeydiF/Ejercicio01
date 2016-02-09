@@ -126,7 +126,16 @@ header{
 .pag2{
 	background:#000;
 	color:#fff;
+	width: 100%;
+	height: 450px;
 }
+
+.pag2 article{
+	/*display: inline-block;*/
+	float: left;
+	padding: 55px
+}
+
 
 /*estilos pagina 3*/
 
