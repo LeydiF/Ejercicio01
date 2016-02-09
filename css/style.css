@@ -140,9 +140,134 @@ header{
 /*estilos pagina 3*/
 
 .pag3{
-	background:#568;
-	color:#fff;
+	background:#fff;
+	color:#000;
 }
+
+.img1{
+	position: absolute;
+	float: left;
+	background:#fff;
+	width: 800px;
+	height: 260px;
+}
+
+.text1 p{
+	padding-left: 50px;
+	padding-right: 30px;
+}
+
+.text1 h2{
+	padding-right: 30px;
+}
+
+.text1{
+	background:#0A9EA4;
+	height: 260px;
+	width: 50%;
+	margin-left: 932px;
+    padding: 5px;
+    color:#fff;
+    text-align: right;
+}
+
+.img2{
+	height: 260px;
+	width: 800px;
+	margin-left: 932px;
+    padding: 5px;
+    color:#fff;
+}
+
+.text2{
+	position: absolute;
+	background:#CAA323;
+	float: left;
+	width: 49%;
+	height: 260px;
+	color:#fff;
+	text-align: left;
+}
+.text2 p{
+	padding-right: 50px;
+	padding-left: 30px;
+}
+
+.text2 h2{
+	padding-left: 30px;
+}
+
+.img3{
+	position: absolute;
+	float: left;
+	background:#fff;
+	width: 800px;
+	height: 260px;
+}
+
+.text3{
+	background:#E90C0C;
+	height: 260px;
+	width: 50%;
+	margin-left: 932px;
+    padding: 5px;
+    color:#fff;
+    text-align: right;
+}
+
+.text3 p{
+	padding-left: 50px;
+	padding-right: 30px;
+}
+
+.text3 h2{
+	padding-right: 30px;
+}	
+
+.text4{
+	position: absolute;
+	background:#0C73E9;
+	float: left;
+	width: 49%;
+	height: 260px;
+	color:#fff;
+	text-align: left;
+}
+.text4 p{
+	padding-right: 50px;
+	padding-left: 30px;
+}	
+
+.text4 h2{
+	padding-left: 30px;
+}
+.img5{
+	position: absolute;
+	float: left;
+	background:#fff;
+	width: 800px;
+	height: 260px;
+}
+
+.text5{
+	background:#1E8B09;
+	height: 260px;
+	width: 50%;
+	margin-left: 932px;
+    padding: 5px;
+    color:#fff;
+    text-align: right;
+}
+
+.text5 p{
+	padding-left: 50px;
+	padding-right: 30px;
+}
+
+.text5 h2{
+	padding-right: 30px;
+}
+
 
 
 
