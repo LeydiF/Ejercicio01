@@ -5,8 +5,6 @@ header{
 	
 }
 
-
-
 .main-nav .navigation #logo{
 	background-image: url("../img/logo.png");
 	display:block;
@@ -19,7 +17,7 @@ header{
 
 	float: left;
 
-	margin: 10px 20px 30px 40px;
+	margin: 15px 20px 30px 40px;
 }
 
 .sub-nav, .main-links{
@@ -36,15 +34,19 @@ header{
 
 .sub-nav li, .main-links li{
 	display: inline-block;
-	margin-right: 15px;
+	margin-right: 25px;
 	margin-top: 10px;
+	cursor:pointer;
+}
+
+.main-links li{
+	margin-right: 45px;
 }
 
 
 .main-nav{
 	color:#fff;
 	background:#3366CC;
-	padding-top: 27px;
 	margin-top: 13px;	
 }
 
@@ -59,22 +61,23 @@ header{
 	width: 500px;
     height: 100px;
     display: inline-block;
+    margin-left: -175px;
 }
 
-h2 .main-title{
-	margin-left: 0px;
-}
 
 .sub-title{
 	position: absolute;
 	bottom: 490px;
 	font-size: 36px;
+	width: 600;
+	margin-left: 60;
 }
 
 .nav-3{
 	position: absolute;
 	right: 0px;
 	text-align: right;
+	top:400px;
 
 }
 
@@ -104,13 +107,32 @@ h2 .main-title{
 .apply{
 	position: absolute;
 	left: 800px;
-	top:800px;
+	top:750px;
 	margin: 0 auto;
 	width: 200px;
 	height: 80px;
 	border-radius: 15px;
 	font-size: 28px;
+	background:rgba(255,255,255, .6);
+}
 
+.apply:hover{
+	background:#fff;
+	cursor:pointer;
+}
+
+/*estilos pagina 2*/
+
+.pag2{
+	background:#000;
+	color:#fff;
+}
+
+/*estilos pagina 3*/
+
+.pag3{
+	background:#568;
+	color:#fff;
 }
 
 
